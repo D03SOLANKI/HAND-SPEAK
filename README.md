@@ -11,7 +11,7 @@ Built with an interactive **Streamlit web interface**, the system allows users t
 
 ---
 
-## 🚀 Features
+## 🚀 Features 
 
 ✅ Real-time webcam gesture recognition  
 ✅ Supports ASL & ISL alphabets  
